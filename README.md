@@ -53,4 +53,4 @@ python example.py
 **Confusion matrix модели:**
 ![Confusion matrix](https://github.com/4pokodav/ASL_classifier/raw/main/plots/confusion_matrix.png)
 
-Модель ошиблась только в 1 предсказании для символа "B", в остальном, модель показывает хорошие результаты.
+Модель ошиблась только в 1 предсказании для символа "B" и 4 раза для символа "M", в остальном, модель показывает хорошие результаты.
